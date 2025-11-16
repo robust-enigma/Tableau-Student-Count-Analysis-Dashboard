@@ -13,4 +13,5 @@
 - Ensured optimized performance by creating **extracts (.hyper)** for smooth dashboard interaction and portability.  
 
 ## Dashboard Preview
-![Dashboard Preview](Student Count Analysis Dashboard.png)
+![Dashboard Preview](Student%20Count%20Analysis%20Dashboard.png)
+
